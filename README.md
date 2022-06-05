@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thiagoolivier
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning html, css and javascript
+- 💞️ I’m looking to collaborate on website related projects
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/thiago-oliveira-b48365202/
